@@ -50,6 +50,10 @@ bash <(curl -s https://raw.githubusercontent.com/tienducle/steam-deck-stuff/main
 
 - Optional: Add `DXVK_ASYNC=1` to launch options of a game if desired.
 
+## Cloud Gaming
+
+[Xbox Cloud Gaming](https://support.microsoft.com/en-us/topic/xbox-cloud-gaming-in-microsoft-edge-with-steam-deck-43dd011b-0ce8-4810-8302-965be6d53296)
+
 ## Emulation - RetroArch
 
 [Core Updater](https://github.com/lajoshanostra/Steam-Deck-RA-Core-Updater)
