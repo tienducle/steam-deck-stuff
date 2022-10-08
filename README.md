@@ -4,7 +4,7 @@
 
 ### SSH
 
-TODO
+[Wiki](https://github.com/tienducle/steam-deck-stuff/wiki/SSH)
 
 ### Steam Link
 
