@@ -1,0 +1,9 @@
+Make sure you're updated to the new stable SteamOS  that allows for custom boot videos with no tweaking:
+
+1. Switch to desktop mode
+2. Open 'Home" in your file explorer (it's called Dolphin)
+3. Press the three lines in the top right and choose "Show Hidden Files"
+4. Go to ~/.steam/root/config/
+5. Create a new folder called "uioverrides", and in that folder create another folder called "movies"
+6. From my google drive, download the deck_startup.webm of the intro movie you want to use as your boot video, and move it into the folder you just created under ~/.steam/root/config/uioverrides/movies/ 
+7. You're done! Buy me a coffee if you want to! Paypal: https://paypal.me/tghazaly?country.x=US&locale.x=en_US

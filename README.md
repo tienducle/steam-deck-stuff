@@ -57,3 +57,11 @@ bash <(curl -s https://raw.githubusercontent.com/tienducle/steam-deck-stuff/main
 ## Emulation - RetroArch
 
 [Core Updater](https://github.com/lajoshanostra/Steam-Deck-RA-Core-Updater)
+
+## Customization
+
+#### Boot Logos
+
+- Set up folder
+	- `mkdir -p ~/.steam/root/config/uioverrides/movies`
+- Put `deck_startup.webm` into the movies folder
