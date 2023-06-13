@@ -10,7 +10,7 @@
 
 ## Step 1: Download the Setup file
 
-The Star Stable Online homepage won't let you download the file on the Steam Deck directly, as it looks at your webbrowser's [user agent](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent) and determines that your device "is not supported". If you're an advanced user, you can edit your user agent, so the SSO homepage thinks that you're browsing from a Windows computer. Otherwise you can download the file from another Windows computer and copy it onto your Steam Deck using a thumbdrive, external drive, SSH, etc. you name it. For all the lazy ones, I'll put this [Star Stable Online Setup 2.12.5.exe](https://seafile.pinguincloud.de/f/178379be4edc41a1a63e/) here.
+The Star Stable Online homepage won't let you download the file on the Steam Deck directly, as it looks at your webbrowser's [user agent](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent) and determines that your device "is not supported". If you're an advanced user, you can edit your user agent, so the SSO homepage thinks that you're browsing from a Windows computer. Otherwise you can download the file from another Windows computer and copy it onto your Steam Deck using a thumbdrive, external drive, SSH, etc. you name it. For all the lazy ones, I'll put this [Star Stable Online Setup.exe](https://link.pinguincloud.de/sso) here.
 
 In any way, place the file under `/home/deck/Downloads`
 
@@ -30,15 +30,17 @@ Open Steam and add the setup file as a non-steam game.
 
 ![img/004.png](img/004.png)
 
+![img/005.png](img/005.png)
+
 ## Step 3: Enable compatibility mode
 
 Open the properties of the added game and enable the compatibility mode.
 
-![img/005.png](img/005.png)
-
 ![img/006.png](img/006.png)
 
 ### Step 3.1: Select the latest stable Proton version.
+
+**⚠️ Note:** Proton 7.0-4 shown in the screenshot below is outdated. As of now, select Proton 8.0-2 or higher
 
 ![img/007.png](img/007.png)
 
